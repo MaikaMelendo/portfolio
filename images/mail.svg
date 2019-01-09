@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="36px" viewBox="0 0 45 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>gmail-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-229.000000, -373.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="gmail-logo" transform="translate(229.000000, 373.000000)">
+                <path d="M40.5,0 L4.5,0 C2.025,0 0,2.025 0,4.5 L0,31.5 C0,33.975 2.025,36 4.5,36 L40.5,36 C42.975,36 45,33.975 45,31.5 L45,4.5 C45,2.025 42.975,0 40.5,0 Z M40.5,31.5 L36,31.5 L36,11.7 L22.5,20.25 L9,11.7 L9,31.5 L4.5,31.5 L4.5,4.5 L7.2,4.5 L22.5,13.95 L37.8,4.5 L40.5,4.5 L40.5,31.5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

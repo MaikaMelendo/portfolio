@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="38px" viewBox="0 0 41 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="45px" height="36px" viewBox="0 0 45 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>Path</title>
+    <title>gmail-logo</title>
     <desc>Created with Sketch.</desc>
-    <g id="ParaFigma" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD-Copy-6" transform="translate(-788.000000, -5047.000000)" fill="#FFFFFF">
-            <g id="Footer" transform="translate(214.000000, 4863.000000)">
-                <g id="Socialmedia" transform="translate(448.000000, 183.000000)">
-                    <g id="linkedin-logo">
-                        <g id="sent-mail" transform="translate(126.000000, 1.000000)">
-                            <path d="M40.7912522,0.152313391 C40.6087442,-0.00799210891 40.3490166,-0.0451839668 40.1288793,0.0570629561 L0.354634112,18.5636333 C0.140502814,18.6633025 0.0026105926,18.8772478 3.66044658e-05,19.1136554 C-0.00253738367,19.3500631 0.130819716,19.5669542 0.34286731,19.671165 L11.5989174,25.203055 C11.8053267,25.3045654 12.051449,25.281612 12.2357956,25.1436462 L23.1797803,16.9523543 L14.5882982,25.8022981 C14.4657273,25.9286031 14.4032162,26.1015514 14.416699,26.2770773 L15.272121,37.4332845 C15.2911195,37.6804937 15.4565902,37.8918613 15.6918037,37.9693136 C15.7546825,37.9899349 15.8192774,38 15.8831368,38 C16.0582906,38 16.2286641,37.9247571 16.3471901,37.7872822 L22.3215391,30.8543762 L29.7070465,34.3882164 C29.8673692,34.4649323 30.0529415,34.4681237 30.2158382,34.3971769 C30.3787348,34.3261073 30.5027765,34.1878959 30.5559723,34.0182618 L40.9717991,0.797585988 C41.0446062,0.565597172 40.9736377,0.312618891 40.7912522,0.152313391 Z" id="Path"></path>
-                        </g>
-                    </g>
-                </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-229.000000, -373.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="gmail-logo" transform="translate(229.000000, 373.000000)">
+                <path d="M40.5,0 L4.5,0 C2.025,0 0,2.025 0,4.5 L0,31.5 C0,33.975 2.025,36 4.5,36 L40.5,36 C42.975,36 45,33.975 45,31.5 L45,4.5 C45,2.025 42.975,0 40.5,0 Z M40.5,31.5 L36,31.5 L36,11.7 L22.5,20.25 L9,11.7 L9,31.5 L4.5,31.5 L4.5,4.5 L7.2,4.5 L22.5,13.95 L37.8,4.5 L40.5,4.5 L40.5,31.5 Z" id="Shape"></path>
             </g>
         </g>
     </g>
